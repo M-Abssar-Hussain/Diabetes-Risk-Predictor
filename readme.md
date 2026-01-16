@@ -36,5 +36,4 @@ The model predicts one of the following:
 
 ---
 
-## 🗂️ Project Structure
 
