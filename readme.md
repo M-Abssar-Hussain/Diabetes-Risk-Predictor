@@ -7,14 +7,9 @@ The app asks **important lifestyle-related questions**, allows users to skip unk
 
 ---
 
-## 🚀 Live Demo
-👉 *(Add your Streamlit Cloud URL here after deployment)*
-
----
-
 ## 📌 Features
 
-- ✅ Clean & modern UI with **background image**
+- ✅ Generate Clean & modern UI with **background image**
 - ✅ Only **important lifestyle questions**
 - ✅ Users can select **“I don’t know”** for any question
 - ✅ Prediction still works with partial data
